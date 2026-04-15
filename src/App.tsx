@@ -446,7 +446,6 @@ function RevealedMode({ isAudioPlaying, toggleAudio }: any) {
             appearance="회색빛 머리칼, 하나로 둥글게 묶은 로우번, 눈을 가리는 흰 눈가리개, 긴 앞머리, 입 아래 작은 점, 부드러운 인상"
             traits="INTJ | 1w9 | sp/sx | 질서 악"
             delay={0.5}
-            imageUrl="https://i.postimg.cc/D0DjJCwN/a-2.png"
           />
           <ProfileCard 
             name="손배희"
@@ -456,7 +455,6 @@ function RevealedMode({ isAudioPlaying, toggleAudio }: any) {
             appearance="흰 머리, 포니테일, 안광없는 검은색 눈, 섬뜩한 눈빛"
             traits="ENTP | 7w8 | sx/sp | 혼돈 악"
             delay={1.0}
-            imageUrl="https://i.postimg.cc/TYDQNJPN/b-2.png"
           />
           <ProfileCard 
             name="류소해"
@@ -466,7 +464,6 @@ function RevealedMode({ isAudioPlaying, toggleAudio }: any) {
             appearance="갈색 단발, 회색 눈, 순한 눈매"
             traits="INFJ | 2w1 | so/sp | 질서 선"
             delay={1.5}
-            imageUrl="https://i.postimg.cc/nrQK5nng/d-2.png"
           />
           <ProfileCard 
             name="초난비"
@@ -476,7 +473,6 @@ function RevealedMode({ isAudioPlaying, toggleAudio }: any) {
             appearance="검은색 숏컷, 청색 눈, 오른쪽 눈을 가린 검은 안대, 날카로운 인상"
             traits="ESFP | 8w7 | sx/sp | 혼돈 선"
             delay={2.0}
-            imageUrl="https://i.postimg.cc/Z5LQjx74/e-2.png"
           />
         </div>
 
@@ -492,7 +488,6 @@ function RevealedMode({ isAudioPlaying, toggleAudio }: any) {
             神
           </div>
           <div className="text-center mb-12 mt-4">
-            <img src="https://i.postimg.cc/k5nc4ryG/c-2.png" alt="백연" referrerPolicy="no-referrer" className="w-64 h-64 object-cover mx-auto mb-8 border border-red-900/50 shadow-[0_0_30px_rgba(255,0,0,0.3)]" />
             <h2 className="text-8xl font-black text-white mb-4 tracking-tighter glitch-text" data-text="백연" style={{ textShadow: '0 0 30px rgba(255,0,0,0.6)' }}>백연</h2>
             <p className="text-red-500 font-mono tracking-widest text-lg">나이 알 수 없음 | 女</p>
           </div>
